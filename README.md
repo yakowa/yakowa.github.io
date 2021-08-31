@@ -1,2 +1,16 @@
-# yakowa.github.io
-Yakowa's personal hub
+
+# JacobEM / Yakowa
+
+Software Engineer / Photographer / Graphic Designer
+
+---
+
+Github
+
+Website
+
+Twitter
+
+Insta
+
+Blog
