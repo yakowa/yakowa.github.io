@@ -1,0 +1,37 @@
+/* * Lily.css */
+
+:root {
+    --background-primary: #52567b;
+    --background-secondary: #3c405b;
+    --text-normal: #ececec;
+    --primary: #87d1b3;
+}
+
+body {
+    margin: 2rem 0;
+    /* padding: clamp(.75rem, 5vw, 40px); */
+    padding: 0;
+
+    background-color: var(--background-primary);
+    color: var(--text-normal);
+    font-family: 'Ubuntu', sans-serif;
+
+
+}
+
+#app {
+    padding: .5rem;
+    background-color: var(--background-secondary);
+
+    width: 80%;
+    margin: auto;
+}
+
+#welcome { max-width: 30ch; }
+#welcome i {
+    color: var(--primary);
+}
+
+@media screen and (max-width: 768px) {
+    #app { width: 95%; padding: .5rem .25rem; }
+}
